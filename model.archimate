@@ -3394,17 +3394,20 @@ Technologie				D3ECB6</content>
         <folder name="04. Strategie, governance &amp; bedrijvoeringsviews" id="id-96dff6f1cf9547e4927588bbf38d0f5b"/>
       </folder>
       <element xsi:type="archimate:ArchimateDiagramModel" name="Inhoudsview" id="id-ba2144ddec5747fcb808da051af2b3f1">
-        <child xsi:type="archimate:DiagramModelReference" id="id-f43ff15673ea4789ac07a003ad83c236" textPosition="1" model="id-b71992b20e164674a9a169d6ed4d3c53">
-          <bounds x="296" y="132" width="173" height="73"/>
-        </child>
         <child xsi:type="archimate:Note" id="id-af508fd7e8924623ba4f9e482c70de38" textAlignment="1" borderType="2" imagePath="images/_jjwUAJhGEfCH6O1x_8jM2w.png" imagePosition="4">
           <bounds x="72" y="48" width="123" height="49"/>
         </child>
-        <child xsi:type="archimate:DiagramModelReference" id="id-3b6dd3d31518404d8b9d8ea95be2f00c" model="id-f8818ce65ea74425a4099acf9f59908f">
-          <bounds x="72" y="132" width="173" height="73"/>
-        </child>
-        <child xsi:type="archimate:DiagramModelReference" id="id-d02f48c44081486b813cc192f221080e" model="id-136a45fc75094776a971103843b898db">
-          <bounds x="72" y="216" width="173" height="73"/>
+        <child xsi:type="archimate:Group" id="id-a6f6bc5b95ae4ada8bba83af3adf7260" name="Inhoud" textAlignment="1">
+          <bounds x="72" y="108" width="421" height="313"/>
+          <child xsi:type="archimate:DiagramModelReference" id="id-f43ff15673ea4789ac07a003ad83c236" textPosition="1" model="id-b71992b20e164674a9a169d6ed4d3c53">
+            <bounds x="236" y="48" width="173" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramModelReference" id="id-d02f48c44081486b813cc192f221080e" model="id-136a45fc75094776a971103843b898db">
+            <bounds x="12" y="132" width="173" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramModelReference" id="id-3b6dd3d31518404d8b9d8ea95be2f00c" model="id-f8818ce65ea74425a4099acf9f59908f">
+            <bounds x="12" y="48" width="173" height="73"/>
+          </child>
         </child>
       </element>
     </folder>
