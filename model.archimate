@@ -1901,6 +1901,7 @@ Technology				D3ECB6</content>
         </child>
         <child xsi:type="archimate:DiagramModelReference" id="id-f4920d5d49694e5998451a32c0afb352" model="id-f2bf163e06b443c5804100de1ab3ca99">
           <bounds x="24" y="96" width="173" height="73"/>
+          <feature name="iconVisible" value="1"/>
         </child>
         <child xsi:type="archimate:DiagramModelReference" id="id-6e5e2c058f12451ba855f44e2d89b1af" model="id-65633a32e0a54d328b1a98ba0ff5c412">
           <bounds x="24" y="187" width="173" height="73"/>
